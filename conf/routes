@@ -6,7 +6,7 @@
 GET     /                                       Application.index
 
 
-GET     /article/{<[0-9]+>id}                   Application.article
+GET     /articles/{name}                        Application.article
 
 
 # Ignore favicon requests
@@ -17,4 +17,4 @@ GET     /img/                                   staticDir:public/images
 GET     /public/                                staticDir:public
 
 # Catch all
-*       /{controller}/{action}                  {controller}.{action}
+#       /{controller}/{action}                  {controller}.{action}
