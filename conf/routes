@@ -5,10 +5,15 @@
 # Home page
 GET     /                                       Application.index
 
+
+GET     /article/{<[0-9]+>id}                   Application.article
+
+
 # Ignore favicon requests
 GET     /favicon.ico                            404
 
 # Map static resources from the /app/public folder to the /public path
+GET     /img/                                   staticDir:public/images
 GET     /public/                                staticDir:public
 
 # Catch all

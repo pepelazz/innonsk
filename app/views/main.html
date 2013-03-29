@@ -1,16 +1,75 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
-        <title>#{get 'title' /}</title>
-        <meta charset="${_response_encoding}">
-        <link rel="stylesheet" media="screen" href="@{'/public/stylesheets/main.css'}">
-        #{get 'moreStyles' /}
-        <link rel="shortcut icon" type="image/png" href="@{'/public/images/favicon.png'}">
-        <script src="@{'/public/javascripts/jquery-1.6.4.min.js'}" type="text/javascript" charset="${_response_encoding}"></script>
-        #{get 'moreScripts' /}
-    </head>
-    <body>
-        #{doLayout /}
-    </body>
+<head>
+    <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+    <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+    <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+    <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<title>#{get 'title' /}</title>
+<meta charset="${_response_encoding}">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,300italic' rel='stylesheet' type='text/css'>
+<link href="@{'/public/stylesheets/style.css'}" rel="stylesheet" media="screen" >
+<link href="@{'public/less/animate.less-master/animate.css'}" rel="stylesheet" type="text/css">
+#{get 'moreStyles' /}
+<link rel="shortcut icon" type="image/png" href="@{'/public/images/favicon.png'}">
+<link rel="stylesheet" href="@{'/public/fonts/font-awesome/css/font-awesome.min.css'}" media="screen" >
+<link rel="stylesheet" href="@{'/public/javascripts/woothemes-FlexSlider-06b12f8/flexslider.css'}" type="text/css" media="screen" />
+<link rel="stylesheet" href="@{'/public/javascripts/prettyPhoto_3.1.5/prettyPhoto.css'}" type="text/css" media="screen" />
+<!--[if IE 7]>
+<link rel="stylesheet" href="fonts/font-awsome/css/font-awesome-ie7.min.css">
+<![endif]-->
+<script src="@{'/public/javascripts/modernizr.custom.48287.js'}" type="text/javascript" ></script>
+#{get 'moreScripts' /}
+</head>
+<body>
+<header>
+    <div class="container">
+        <div class="navbar">
+            <div class="navbar-inner">
+                <a class="brand" href="/">
+                    <span class="logo_title"><strong>Инновационный<br>Новосибирск</strong></span> <span class="logo_subtitle">база знаний</span> </a>
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="nb_left pull-left">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </span>
+                    <span class="nb_right pull-right">menu</span>
+                </a>
+                <div class="nav-collapse collapse">
+                    <ul class="nav pull-right" id="main-menu">
+                        <li><a href="/">Начало</a></li>
+                        <li><a href="/about">О нас</a></li>
+                        <li><a href="/production">Продукция</a></li>
+                        <li><a href="/contact">Контакты</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+#{doLayout /}
+
+<footer>
+    <section>
+    </section>
+</footer>
+
+<script src="@{'/public/javascripts/jquery-1.9.0.min.js'}" type="text/javascript" charset="${_response_encoding}"></script>
+<script src="@{'/public/twitter-bootstrap/js/bootstrap.min.js'}" type="text/javascript"></script>
+<script src="@{'/public/javascripts/modernizr.custom.48287.js'}" type="text/javascript" ></script>
+<script src="@{'/public/javascripts/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js'}"></script>
+<script src="@{'/public/javascripts/prettyPhoto_3.1.5/jquery.prettyPhoto.js'}" type="text/javascript" charset="utf-8"></script>
+<script src="@{'/public/javascripts/isotope/jquery.isotope.min.js'}" type="text/javascript"></script>
+<script src="@{'/public/javascripts/jquery.ui.totop.js'}" type="text/javascript" ></script>
+<script src="@{'/public/javascripts/restart_theme.js'}" type="text/javascript" ></script>
+<script src="@{'/public/javascripts/my-script.coffee'}" type="text/javascript" ></script>
+
+
+</body>
 </html>
