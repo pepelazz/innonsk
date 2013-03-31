@@ -1,0 +1,11 @@
+#{extends 'main.html' /}
+
+<!-- start: Page Title -->
+<div id="page-title">
+
+    <h2>${company.companyName}</h2>
+
+</div>
+<!-- end: Page Title -->
+
+#{include 'companies/' + company.name + 'Company.html' /}

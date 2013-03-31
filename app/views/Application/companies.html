@@ -1,0 +1,30 @@
+#{extends 'main.html' /}
+
+
+<!-- start: Page Title -->
+<div id="page-title">
+
+    <h2>Компании</h2>
+
+</div>
+<!-- end: Page Title -->
+
+<!--start: Wrapper-->
+<div id="wrapper" class="full">
+
+    <hr>
+
+    <h2>Компании</h2>
+        <ul class="star_list">
+        #{list items:companies, as:'company'}
+            <li><a href="/companies/${company.name}" title="Title">${company.companyName}</a></li>
+        #{/list}
+        </ul>
+
+    <br><br><br>
+
+    <div class="clearfix"></div>
+    <hr>
+
+</div>
+<!-- end: Wrapper  -->
