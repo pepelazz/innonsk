@@ -8,7 +8,7 @@
     </list>
     <ignored path="innonsk.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364721476937" ignored="false" />
+    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364722382850" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/controllers/Application.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
     <file path="/fragment.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364661276950" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/views/Application/index.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
@@ -152,7 +152,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="32" selection-start="416" selection-end="416" vertical-scroll-proportion="-5.625">
+            <state line="29" column="47" selection-start="1367" selection-end="1367" vertical-scroll-proportion="-18.125">
               <folding />
             </state>
           </provider>
@@ -170,7 +170,7 @@
       <file leaf-file-name="application.conf" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/application.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="1" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.16666667">
+            <state line="114" column="0" selection-start="3549" selection-end="3549" vertical-scroll-proportion="0.9019608">
               <folding />
             </state>
           </provider>
@@ -208,8 +208,8 @@
         <option value="$PROJECT_DIR$/app/views/Application/articles.html" />
         <option value="$PROJECT_DIR$/app/views/Application/companies.html" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
-        <option value="$PROJECT_DIR$/app/views/Application/index.html" />
         <option value="$PROJECT_DIR$/conf/application.conf" />
+        <option value="$PROJECT_DIR$/app/views/Application/index.html" />
       </list>
     </option>
   </component>
@@ -500,7 +500,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26419213" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26419213" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -649,13 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Application/articles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Application/companies.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="14" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
@@ -684,16 +677,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Application/articles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="23" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="416" selection-end="416" vertical-scroll-proportion="-5.625">
+        <state line="29" column="47" selection-start="1367" selection-end="1367" vertical-scroll-proportion="-18.125">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/application.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="1" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.16666667">
+        <state line="114" column="0" selection-start="3549" selection-end="3549" vertical-scroll-proportion="0.9019608">
           <folding />
         </state>
       </provider>

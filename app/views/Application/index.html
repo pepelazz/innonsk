@@ -5,9 +5,9 @@
         #{list items:companies, as:'company'}
         <div class="span3 item">
             <div class="picture">
-                <a class="image" href="/companies/${company.name}" title="Title"><img src="public/img/companies/${company.name}.jpg" alt=""/></a>
+                <a class="image" href="/app/views/companies/${company.name}" title="Title"><img src="public/img/companies/${company.name}.jpg" alt=""/></a>
                 <div class="description">
-                    #{include '/companies/' + company.name + 'CompanyTeaser.html' /}
+                    #{include '/app/views/companies/' + company.name + 'CompanyTeaser.html' /}
                 </div>
                 <div class="meta">
                     <span><i class="fa-icon-cogs"> </i>${company.industry}</span>
