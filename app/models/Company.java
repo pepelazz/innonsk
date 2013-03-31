@@ -1,18 +1,18 @@
 package models;
 
-import java.util.*;
+import play.db.jpa.GenericModel;
+
 import javax.persistence.*;
 
-import play.db.jpa.*;
-
 @Entity
-public class Article extends GenericModel {
+public class Company extends GenericModel {
     @Id
     @SequenceGenerator(name = "article_seq", sequenceName = "article_seq", initialValue = 1, allocationSize = 1)
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "article_seq")
     public long id;
 
     public String name;
-    public String title;
+    public String companyName;
+    public String industry;
 
 }

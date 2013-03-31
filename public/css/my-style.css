@@ -1,3 +1,49 @@
-.brand{
-    font-weight: 500!important;
+.brand {
+  font-weight: 500!important;
+}
+.separate img {
+  float: right;
+  margin-left: 20px;
+}
+.post-comment {
+  margin: 20px 0!important;
+}
+.post-description {
+  font-size: 14px;
+  text-align: justify;
+}
+.post-description .table-title {
+  margin: 20px 0 5px 0;
+}
+.post-description table {
+  margin: 0px 0 20px 0px;
+  border: 1px solid #DFDFDF;
+  background-color: #F9F9F9;
+  width: 100%;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  color: #333;
+}
+.post-description table td,
+.post-description table tr {
+  border-top-color: white;
+  border-bottom: 1px solid #DFDFDF;
+  color: #555;
+}
+.post-description table th {
+  text-shadow: rgba(255, 255, 255, 0.796875) 0px 1px 0px;
+  font-weight: normal;
+  padding: 7px 7px 8px;
+  text-align: left;
+  line-height: 1.3em;
+  font-size: 14px;
+}
+.post-description table td {
+  font-size: 12px;
+  padding: 8px 7px 8px;
+  vertical-align: middle;
+}
+.post-description table ul {
+  text-align: left;
 }

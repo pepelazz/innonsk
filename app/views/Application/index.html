@@ -1,19 +1,16 @@
 #{extends 'main.html' /}
-#{set title: messages.get('home.title')/}
 
 <div id="wrapper">
     <div id="wall" class="row-fluid">
-        #{list items:articles, as:'article'}
+        #{list items:companies, as:'company'}
         <div class="span3 item">
             <div class="picture">
-                <a class="image" href="/articles/${article.name}" title="Title"><img src="public/img/articles/${article.name}.jpg" alt=""/></a>
+                <a class="image" href="/companies/${company.name}" title="Title"><img src="public/img/companies/${company.name}.jpg" alt=""/></a>
                 <div class="description">
-                    #{include 'articles/' + article.name + 'teaser.html' /}
+                    #{include 'companies/' + company.name + 'CompanyTeaser.html' /}
                 </div>
                 <div class="meta">
-                    <span><i class="fa-icon-calendar"></i>1 June 2011</span>
-                    <span><i class="fa-icon-user"></i> <a href="#">lucas</a></span>
-                    <span><i class="fa-icon-heart-empty"></i> 88</span>
+                    <span><i class="fa-icon-cogs"> </i>${company.industry}</span>
                 </div>
             </div>
         </div>

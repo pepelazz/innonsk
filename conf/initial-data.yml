@@ -1,7 +1,33 @@
 
-Article(a1):
+Company(c1):
     name:          GSS
+    companyName:   Компания GSS-soft
+    industry:      информационные технологии
 
+
+Company(c2):
+    name:          ZSB
+    companyName:   Завод строительных блоков
+    industry:      строительные технологии
+
+Company(c3):
+    name:          ARSTerm
+    companyName:   АРС ТЕРМ
+    industry:      энергетика
+
+Company(c4):
+    name:          NIT
+    companyName:   ООО НИТ (наука – инновации – технологии)
+    industry:      энергетика
+
+Article(a1):
+    name:         spinoff
+    title:        Spin-off  компании
 
 Article(a2):
-    name:          ZSB
+    name:         newFunctionality
+    title:        Новая функциональность  как источник инноваций
+
+Article(a3):
+    name:         AbelScheme
+    title:        Поиск новых сфер применения продукта и технологий. Схема Д. Абеля.

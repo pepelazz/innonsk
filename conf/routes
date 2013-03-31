@@ -5,9 +5,13 @@
 # Home page
 GET     /                                       Application.index
 
+# Company
+GET     /companies                              Application.companies
+GET     /companies/{name}                       Application.company
 
-GET     /articles/{name}                        Application.article
-
+# Article
+GET     /articles                              Application.articles
+GET     /articles/{name}                       Application.article
 
 # Ignore favicon requests
 GET     /favicon.ico                            404

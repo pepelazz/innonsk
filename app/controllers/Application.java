@@ -1,6 +1,7 @@
 package controllers;
 
 import models.Article;
+import models.Company;
 import play.*;
 import play.db.jpa.JPA;
 import play.exceptions.TemplateNotFoundException;
@@ -12,6 +13,25 @@ import java.util.List;
 public class Application extends Controller {
 
     public static void index() {
+        List<Company> companies = Company.findAll();
+        render(companies);
+    }
+
+    public static void company (String name) {
+        final TypedQuery<Company> q = JPA.em().createQuery(
+                "SELECT c FROM Company c WHERE c.name = :name",
+                Company.class);
+        q.setParameter("name", name);
+        Company company = q.getSingleResult();
+        render(company);
+    }
+
+    public static void companies (String name) {
+        List<Company> companies = Company.findAll();
+        render(companies);
+    }
+
+    public static void articles (String name) {
         List<Article> articles = Article.findAll();
         render(articles);
     }
@@ -25,17 +45,5 @@ public class Application extends Controller {
         render(article);
     }
 
-//    public static void article (String name) {
-//
-//        System.out.println("name = " + name);
-//
-//        Logger.debug("Requested: '%s.html'", name);
-//        try {
-//            render("articles/" + name + ".html");
-//        } catch (TemplateNotFoundException e) {
-//            Logger.error("Missing file: '%s.html'", name);
-//            notFound();
-//        }
-//    }
 
 }

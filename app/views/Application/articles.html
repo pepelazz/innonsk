@@ -1,0 +1,30 @@
+#{extends 'main.html' /}
+
+
+<!-- start: Page Title -->
+<div id="page-title">
+
+    <h2>Статьи</h2>
+
+</div>
+<!-- end: Page Title -->
+
+<!--start: Wrapper-->
+<div id="wrapper" class="full">
+
+    <hr>
+
+    <h2>Статьи</h2>
+        <ul>
+        #{list items:articles, as:'article'}
+            <li><i class="fa-icon-book"></i><a href="/articles/${article.name}" title="Title">${article.title}</a></li>
+        #{/list}
+        </ul>
+
+    <br><br><br>
+
+    <div class="clearfix"></div>
+    <hr>
+
+</div>
+<!-- end: Wrapper  -->
