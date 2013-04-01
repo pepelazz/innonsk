@@ -2,22 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" name="Default" comment="heroku">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/articles/Tassimo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/articles/imunele.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/articles/ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/articles/mp3player.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/application.conf" afterPath="$PROJECT_DIR$/conf/application.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/Application/article.html" afterPath="$PROJECT_DIR$/app/views/Application/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/Application/articles.html" afterPath="$PROJECT_DIR$/app/views/Application/articles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/Application/companies.html" afterPath="$PROJECT_DIR$/app/views/Application/companies.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/Application/company.html" afterPath="$PROJECT_DIR$/app/views/Application/company.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons-white.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons-white.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons_halflings-white.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons_halflings-white.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons_halflings.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons_halflings.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/Application/index.html" afterPath="$PROJECT_DIR$/app/views/Application/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/initial-data.yml" afterPath="$PROJECT_DIR$/conf/initial-data.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/innonsk.iws" afterPath="$PROJECT_DIR$/innonsk.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/modernizr.js" afterPath="$PROJECT_DIR$/public/js/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/my-style.css" afterPath="$PROJECT_DIR$/public/css/my-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/less/my-style.less" afterPath="$PROJECT_DIR$/public/less/my-style.less" />
     </list>
     <ignored path="innonsk.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364724297070" ignored="false" />
+    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364812429484" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/controllers/Application.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
     <file path="/fragment.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364661276950" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/views/Application/index.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/conf/initial-data.yml" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364399508967" ignored="false" />
-    <file path="/initial-data.yml" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364715226567" ignored="false" />
+    <file path="/initial-data.yml" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364801791776" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/models/Production.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364406806568" ignored="false" />
     <file path="/Production.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364399521888" ignored="false" />
     <file path="/Application.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364664371013" ignored="false" />
@@ -33,7 +45,7 @@
     <file path="$PROJECT_DIR$/../3dcinemas/public/javascripts/code-for-testing.coffee" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364458401041" ignored="false" />
     <file path="/code-for-testing.coffee" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364458196087" ignored="false" />
     <file path="/main.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364720363515" ignored="false" />
-    <file path="/my-style.less" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364714000474" ignored="false" />
+    <file path="/my-style.less" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364805883996" ignored="false" />
     <file path="/a.less" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364468176557" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/public/less/my-style.less" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/conf/dependencies.yml" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364468430728" ignored="false" />
@@ -51,7 +63,7 @@
     <file path="/my-style.css" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364711606038" ignored="false" />
     <file path="/about.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364569101784" ignored="false" />
     <file path="/ZSBarticle.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364658560337" ignored="false" />
-    <file path="/dummy.xml" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364718481332" ignored="false" />
+    <file path="/dummy.xml" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364800612705" ignored="false" />
     <file path="$USER_HOME$/Documents/сайт/проекты/noateq/elegance/index.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364619439766" ignored="false" />
     <file path="/GSSarticle.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364621640592" ignored="false" />
     <file path="/ARSTerm.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364623118174" ignored="false" />
@@ -68,6 +80,7 @@
     <file path="/AbelScheme.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364719783357" ignored="false" />
     <file path="/GSSCompany.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364720033137" ignored="false" />
     <file path="/application.conf" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364721094029" ignored="false" />
+    <file path="/convergenceNewProducts.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364807123983" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +142,16 @@
       <file leaf-file-name="articles.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Application/articles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="23" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
+            <state line="14" column="6" selection-start="310" selection-end="310" vertical-scroll-proportion="-8.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="8" selection-start="149" selection-end="149" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -138,43 +160,52 @@
       <file leaf-file-name="companies.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Application/companies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="14" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
+            <state line="11" column="4" selection-start="293" selection-end="293" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="company.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Application/company.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="188" selection-end="188" vertical-scroll-proportion="-6.25">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="39" selection-start="235" selection-end="235" vertical-scroll-proportion="0.1826087">
+            <state line="19" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="-11.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <file leaf-file-name="convergenceNewProducts.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/articles/convergenceNewProducts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="36" selection-start="120" selection-end="120" vertical-scroll-proportion="-4.375">
+            <state line="116" column="25" selection-start="9823" selection-end="9823" vertical-scroll-proportion="-15.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.conf" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.conf" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/application.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="0" selection-start="3549" selection-end="3549" vertical-scroll-proportion="0.0">
+            <state line="114" column="0" selection-start="3548" selection-end="3548" vertical-scroll-proportion="0.8404075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-style.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/less/my-style.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="14" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initial-data.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/initial-data.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="38" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -198,22 +229,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/js/my-script.coffee" />
-        <option value="$PROJECT_DIR$/public/css/my-style.css" />
-        <option value="$PROJECT_DIR$/public/less/my-style.less" />
         <option value="$PROJECT_DIR$/app/views/articles/spinoff.html" />
-        <option value="$PROJECT_DIR$/conf/initial-data.yml" />
         <option value="$PROJECT_DIR$/app/views/articles/AbelScheme.html" />
         <option value="$PROJECT_DIR$/app/views/articles/newFunctionality.html" />
         <option value="$PROJECT_DIR$/app/views/companies/GSSCompany.html" />
         <option value="$PROJECT_DIR$/app/views/companies/ZSBCompany.html" />
         <option value="$PROJECT_DIR$/app/views/companies/ARSTermCompany.html" />
-        <option value="$PROJECT_DIR$/app/views/Application/article.html" />
-        <option value="$PROJECT_DIR$/app/views/Application/articles.html" />
-        <option value="$PROJECT_DIR$/app/views/Application/companies.html" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
-        <option value="$PROJECT_DIR$/conf/application.conf" />
+        <option value="$PROJECT_DIR$/conf/initial-data.yml" />
+        <option value="$PROJECT_DIR$/app/views/Application/article.html" />
+        <option value="$PROJECT_DIR$/app/views/Application/company.html" />
+        <option value="$PROJECT_DIR$/app/views/Application/companies.html" />
+        <option value="$PROJECT_DIR$/app/views/Application/articles.html" />
         <option value="$PROJECT_DIR$/app/views/Application/index.html" />
+        <option value="$PROJECT_DIR$/public/less/my-style.less" />
+        <option value="$PROJECT_DIR$/app/views/articles/convergenceNewProducts.html" />
+        <option value="$PROJECT_DIR$/conf/application.conf" />
       </list>
     </option>
   </component>
@@ -289,6 +320,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,11 +353,201 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="errors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="companies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,8 +565,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -351,8 +574,8 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/views/articles" />
+      <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/views/Application" />
       <recent name="$PROJECT_DIR$/public/js" />
       <recent name="$PROJECT_DIR$/public/article" />
@@ -450,7 +673,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26419213" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26855895" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -525,67 +748,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/css/my-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/articles/spinoff.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="27" selection-start="3182" selection-end="3182" vertical-scroll-proportion="-8.7">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/initial-data.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="84" selection-start="789" selection-end="789" vertical-scroll-proportion="0.78431374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/companies/GSSCompany.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="12" selection-start="9033" selection-end="9087" vertical-scroll-proportion="0.76521736">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/articles/AbelScheme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="86" selection-start="2207" selection-end="2207" vertical-scroll-proportion="0.67826086">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#3;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/articles/newFunctionality.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="86" selection-start="4016" selection-end="4016" vertical-scroll-proportion="0.6086956">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#8;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/companies/ARSTermCompany.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="66" selection-start="5686" selection-end="5686" vertical-scroll-proportion="1.9826087">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="38" selection-start="25" selection-end="25" vertical-scroll-proportion="0.025510205">
           <folding />
         </state>
       </provider>
@@ -593,57 +758,102 @@
     <entry file="file://$PROJECT_DIR$/app/views/companies/ZSBCompany.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="97" column="66" selection-start="5710" selection-end="5710" vertical-scroll-proportion="2.4744897">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Application/companies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="14" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="120" selection-end="120" vertical-scroll-proportion="-4.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="120" selection-end="120" vertical-scroll-proportion="0.025996534">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/initial-data.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="38" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/my-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3436482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/companies/ARSTermCompanyTeaser.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Application/articles.html">
+    <entry file="file://$PROJECT_DIR$/app/views/companies/ARSTermCompany.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="25" selection-end="25" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/application.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="0" selection-start="3549" selection-end="3549" vertical-scroll-proportion="0.0">
+        <state line="76" column="66" selection-start="5686" selection-end="5686" vertical-scroll-proportion="-38.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Application/company.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="188" selection-end="188" vertical-scroll-proportion="-6.25">
+        <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.026455026">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Application/companies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="293" selection-end="293" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="8" selection-start="149" selection-end="149" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Application/articles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="310" selection-end="310" vertical-scroll-proportion="-8.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Application/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="39" selection-start="235" selection-end="235" vertical-scroll-proportion="0.1826087">
+        <state line="19" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/less/my-style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/articles/convergenceNewProducts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="25" selection-start="9823" selection-end="9823" vertical-scroll-proportion="-15.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/application.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="0" selection-start="3548" selection-end="3548" vertical-scroll-proportion="0.8404075">
           <folding />
         </state>
       </provider>

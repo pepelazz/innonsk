@@ -31,3 +31,7 @@ Article(a2):
 Article(a3):
     name:         AbelScheme
     title:        Поиск новых сфер применения продукта и технологий. Схема Д. Абеля.
+
+Article(a4):
+    name:         convergenceNewProducts
+    title:        Конвергенция новинок

@@ -17,13 +17,3 @@
         #{/list}
     </div>
 </div>
-
-*{<div class="production_item span3">}*
-*{<div class="production_photo" style="background-image: url(${play.mvc.Router.reverse(play.vfs.VirtualFile.fromRelativePath('public/images/production/' + product.imageLinks.get(0).name))})">}*
-    *{<div class="production_photo" style="background-image: url(${play.mvc.Router.reverse(play.vfs.VirtualFile.fromRelativePath('public/images/production/' + product.image))})">}*
-        *{<a href="@{Application.show(product.url)}"></a>}*
-    *{</div>}*
-    *{<div class="production_description">}*
-        *{<h3><a href="@{Application.show(product.url)}">${product.name}</a></h3>}*
-    *{</div>}*
-*{</div>}*
