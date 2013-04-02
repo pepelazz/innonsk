@@ -22,7 +22,8 @@
 html { -webkit-font-smoothing: antialiased; }
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: Helvetica, Arial, Verdana  sans-serif;
+	/*font-family: 'Roboto', Helvetica, Arial, Verdana  sans-serif;*/
 	/*font-family: 'Droid Sans', sans-serif;*/
 	font-weight: 400;
 	background: #ccc;

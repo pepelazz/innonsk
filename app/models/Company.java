@@ -14,5 +14,6 @@ public class Company extends GenericModel {
     public String name;
     public String companyName;
     public String industry;
+    public String industryTag;
 
 }

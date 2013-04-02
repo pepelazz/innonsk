@@ -14,5 +14,6 @@ public class Article extends GenericModel {
 
     public String name;
     public String title;
+    public String type;
 
 }

@@ -1,15 +1,29 @@
 #{extends 'main.html' /}
 
 
-<div id="wrapper" class="full">
+<div id="wrapper">
 
-    <h2>Статьи</h2>
-        <ul>
-        #{list items:articles, as:'article'}
-            <li><i class="fa-icon-book"></i><a href="/articles/${article.name}" title="Title">${article.title}</a></li>
-        #{/list}
+    <div id="filters">
+        <ul class="option-set" data-option-key="filter">
+            <li><a href="#filter" class="selected" data-option-value="*">All</a></li>
+            <li>/</li>
+            <li><a href="#filter" data-option-value=".article">Статьи-комментарии</a></li>
+            <li>/</li>
+            <li><a href="#filter" data-option-value=".publication">Публикации</a></li>
+            <li>/</li>
         </ul>
+    </div>
 
-    <br><br>
+    <div id="wall" class="row-fluid">
+    #{list items:articles, as:'article'}
+        <div class="span2 item ${article.type}">
+            <div class="picture">
+                <a class="image" href="articles/${article.name}" title="Title"><img src="public/img/articles/${article.name}.jpg" alt=""/></a>
+            </div>
+        </div>
+    #{/list}
+    </div>
+
+
 
 </div>

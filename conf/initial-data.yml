@@ -3,35 +3,48 @@ Company(c1):
     name:          GSS
     companyName:   Компания GSS-soft
     industry:      информационные технологии
+    industryTag:   IT
 
 
 Company(c2):
     name:          ZSB
     companyName:   Завод строительных блоков
     industry:      строительные технологии
+    industryTag:   building
 
 Company(c3):
     name:          ARSTerm
     companyName:   АРС ТЕРМ
     industry:      энергетика
+    industryTag:   energy
 
 Company(c4):
     name:          NIT
     companyName:   ООО НИТ (наука – инновации – технологии)
     industry:      энергетика
+    industryTag:   energy
 
 Article(a1):
     name:         spinoff
     title:        Spin-off  компании
+    type:         article
 
 Article(a2):
     name:         newFunctionality
     title:        Новая функциональность  как источник инноваций
+    type:         article
 
 Article(a3):
     name:         AbelScheme
     title:        Поиск новых сфер применения продукта и технологий. Схема Д. Абеля.
+    type:         article
 
 Article(a4):
     name:         convergenceNewProducts
     title:        Конвергенция новинок
+    type:         publication
+
+Article(a5):
+    name:         typeOfProjects
+    title:        Виды проектов - уточнение терминологии
+    type:         publication
