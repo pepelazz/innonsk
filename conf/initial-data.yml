@@ -9,20 +9,32 @@ Company(c1):
 Company(c2):
     name:          ZSB
     companyName:   Завод строительных блоков
-    industry:      строительные технологии
+    industry:      строительство
     industryTag:   building
 
 Company(c3):
     name:          ARSTerm
     companyName:   АРС ТЕРМ
-    industry:      энергетика
-    industryTag:   energy
+    industry:      транспорт энергетика
+    industryTag:   energy transport
 
 Company(c4):
     name:          NIT
     companyName:   ООО НИТ (наука – инновации – технологии)
     industry:      энергетика
     industryTag:   energy
+
+Company(c5):
+    name:          STB
+    companyName:   ООО СТБ(Строительные технологии будущего)
+    industry:      энергетика строительство
+    industryTag:   energy building
+
+Company(c6):
+    name:          Signatek
+    companyName:   Компания "Сигнате"
+    industry:      телекоммуникации
+    industryTag:   telecommunications
 
 Article(a1):
     name:         spinoff
