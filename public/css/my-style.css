@@ -21,6 +21,12 @@
 }
 .post-description {
   font-size: 14px;
+  text-align: justify;
+}
+.post-description .inner-block {
+  padding: 20px 20px 20px 40px;
+  border: 2px solid #DDD;
+  background-color: #ffebcd;
 }
 .post-description .table-title {
   margin: 20px 0 5px 0;

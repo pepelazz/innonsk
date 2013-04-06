@@ -16,10 +16,11 @@
 
     <div id="wall" class="row-fluid">
     #{list items:articles, as:'article'}
-        <div class="span2 item ${article.type}">
+        <div class="span3 item ${article.type}">
             <div class="picture">
-                <a class="image" href="articles/${article.name}" title="Title"><img src="public/img/articles/${article.name}.jpg" alt=""/></a>
+                <a class="image" href="articles/${article.name}" title="Title"><img src="public/img/articles/${article.image}" alt=""/></a>
             </div>
+            <div class="article-title">${article.title}</div>
         </div>
     #{/list}
     </div>

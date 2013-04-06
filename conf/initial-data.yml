@@ -39,24 +39,41 @@ Company(c6):
 Article(a1):
     name:         spinoff
     title:        Spin-off  компании
+    image:        spinoff.jpg
     type:         article
 
 Article(a2):
     name:         newFunctionality
     title:        Новая функциональность  как источник инноваций
+    image:        newFunctionality.jpg
     type:         article
 
 Article(a3):
     name:         AbelScheme
     title:        Поиск новых сфер применения продукта и технологий. Схема Д. Абеля.
+    image:        AbelScheme.png
     type:         article
 
 Article(a4):
     name:         convergenceNewProducts
     title:        Конвергенция новинок
+    image:        convergenceNewProducts.jpg
     type:         publication
 
 Article(a5):
     name:         typeOfProjects
     title:        Виды проектов - уточнение терминологии
+    image:        typeOfProjects.jpg
     type:         publication
+
+Article(a6):
+    name:         specialSuppliers
+    title:        Специализированные поставщики
+    image:        specialSuppliers.png
+    type:         article
+
+Article(a7):
+    name:         perceptionBarriers
+    title:        Барьеры восприятия новинок
+    image:        perceptionBarriers.jpg
+    type:         article
