@@ -60,7 +60,7 @@ Article(a3):
 Article(a4):
     name:         convergenceNewProducts
     title:        Конвергенция новинок
-    author:       Markova
+    author:       markova
     annotation:   Статья опубликована в журнале <br> <a href="http://www.mag.innov.ru" target="_blank"> ИННОВАЦИИ</a> № 3 (137 ), 2010
     image:        convergenceNewProducts.jpg
     type:         publication
@@ -68,7 +68,7 @@ Article(a4):
 Article(a5):
     name:         typeOfProjects
     title:        Виды проектов - уточнение терминологии
-    author:       Markova
+    author:       markova
     annotation:   Статья опубликована в журнале <br> <a href="http://www.mag.innov.ru" target="_blank"> ИННОВАЦИИ</a> № 1 (159 ), 2012
     image:        typeOfProjects.jpg
     type:         publication
@@ -83,7 +83,7 @@ Article(a6):
 Article(a7):
     name:         perceptionBarriers
     title:        Барьеры восприятия новинок
-    author:       Prihodchenko
+    author:       prihodchenko
     image:        perceptionBarriers.jpg
     type:         article
 
