@@ -86,3 +86,10 @@ Article(a7):
     author:       Prihodchenko
     image:        perceptionBarriers.jpg
     type:         article
+
+Article(a8):
+    name:         innovationProject
+    title:        Инновационный проект как отдельный бизнес
+    image:        innovationProject.jpg
+    type:         article
+    companies:    [ARSTerm, NIT, GSS]

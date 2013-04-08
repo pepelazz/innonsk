@@ -34,20 +34,17 @@
 }
 .post-description .inner-block {
   padding: 20px 20px 20px 40px;
-  border: 2px solid #DDD;
-  background-color: #ffebcd;
+  background-color: #e8edff;
 }
 .post-description .table-title {
   margin: 20px 0 5px 0;
 }
 .post-description table {
+  width: 100%;
+  text-align: left;
   margin: 0px 0 20px 0px;
   border: 1px solid #DFDFDF;
   background-color: #F9F9F9;
-  width: 100%;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  border-radius: 3px;
   color: #333;
 }
 .post-description table td,
@@ -56,11 +53,17 @@
   border-bottom: 1px solid #DFDFDF;
   color: #555;
 }
+.post-description table tr {
+  transition: background-color 0.15s ease-in;
+}
+.post-description table tr:hover {
+  background-color: #e8edff;
+}
 .post-description table th {
   text-shadow: rgba(255, 255, 255, 0.796875) 0px 1px 0px;
   font-weight: normal;
   padding: 7px 7px 8px;
-  text-align: left;
+  text-align: center;
   line-height: 1.3em;
   font-size: 14px;
 }
