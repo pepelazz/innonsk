@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/Application/article.html" afterPath="$PROJECT_DIR$/app/views/Application/article.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons-white.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons-white.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons_halflings-white.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons_halflings-white.svg" />
@@ -12,7 +11,7 @@
     </list>
     <ignored path="innonsk.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365429363345" ignored="false" />
+    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365429720249" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/controllers/Application.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
     <file path="/fragment.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364661276950" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/views/Application/index.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
@@ -164,7 +163,16 @@
       <file leaf-file-name="article.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="20" selection-start="325" selection-end="325" vertical-scroll-proportion="0.3321739">
+            <state line="16" column="7" selection-start="372" selection-end="372" vertical-scroll-proportion="0.35826087">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Markova.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/authors/Markova.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -692,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/authors/Markova.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/FillDemoDb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="87" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
@@ -743,9 +744,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/authors/Markova.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="325" selection-end="325" vertical-scroll-proportion="0.3321739">
+        <state line="16" column="7" selection-start="372" selection-end="372" vertical-scroll-proportion="0.35826087">
           <folding />
         </state>
       </provider>
