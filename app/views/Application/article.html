@@ -1,11 +1,37 @@
 #{extends 'main.html' /}
 
-<div id="wrapper" class="full span9 offset1">
 
-    #{include 'articles/' + article.name + '.html' /}
-    <br><br>
 
-        <div class="clearfix"></div>
+<div id="wrapper">
+    <div class="row-fluid">
+
+    <div class="posts span8">
+        #{include 'articles/' + article.name + '.html' /}
+        <br><br>
+        *{<div class="clearfix"></div>}*
+    </div>
+
+    #{if article.author }
+    <div class="span4 sidebar hidden-phone">
+        #{include 'authors/' + article.author + '.html' /}
+    </div>
+    #{/if}
+
+    #{if article.annotation }
+    <div class="span4 sidebar hidden-phone">
+        <p>${article.annotation.raw()}</p>
+    </div>
+    #{/if}
+
+    #{if article.companies }
+    #{list items:article.companies, as: 'company'}
+    <div class="span4 sidebar hidden-phone">
+        <a class="image" href="/companies/${company}" title="Title"><img src="/public/img/companies/${company}.jpg" alt=""/></a>
+        #{include '/companies/' + company + 'CompanyTeaser.html' /}
+    </div>
+    #{/list}
+    #{/if}
+
 
 </div>
 

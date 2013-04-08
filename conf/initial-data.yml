@@ -41,28 +41,35 @@ Article(a1):
     title:        Spin-off  компании
     image:        spinoff.jpg
     type:         article
+    companies:    [ARSTerm]
 
 Article(a2):
     name:         newFunctionality
     title:        Новая функциональность  как источник инноваций
     image:        newFunctionality.jpg
     type:         article
+    companies:    [ZSB]
 
 Article(a3):
     name:         AbelScheme
     title:        Поиск новых сфер применения продукта и технологий. Схема Д. Абеля.
     image:        AbelScheme.png
     type:         article
+    companies:    [GSS]
 
 Article(a4):
     name:         convergenceNewProducts
     title:        Конвергенция новинок
+    author:       Markova
+    annotation:   Статья опубликована в журнале <br> <a href="http://www.mag.innov.ru" target="_blank"> ИННОВАЦИИ</a> № 3 (137 ), 2010
     image:        convergenceNewProducts.jpg
     type:         publication
 
 Article(a5):
     name:         typeOfProjects
     title:        Виды проектов - уточнение терминологии
+    author:       Markova
+    annotation:   Статья опубликована в журнале <br> <a href="http://www.mag.innov.ru" target="_blank"> ИННОВАЦИИ</a> № 1 (159 ), 2012
     image:        typeOfProjects.jpg
     type:         publication
 
@@ -71,9 +78,11 @@ Article(a6):
     title:        Специализированные поставщики
     image:        specialSuppliers.png
     type:         article
+    companies:    [ARSTerm, NIT, Signatek]
 
 Article(a7):
     name:         perceptionBarriers
     title:        Барьеры восприятия новинок
+    author:       Prihodchenko
     image:        perceptionBarriers.jpg
     type:         article

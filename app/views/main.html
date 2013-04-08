@@ -15,16 +15,16 @@
     <!-- end: Mobile Specific -->
 
     <!-- start: CSS -->
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,100,300,900,400italic,500&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Serif">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Boogaloo">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Economica:700,400italic">
+    *{<link href='http://fonts.googleapis.com/css?family=Roboto:400,700,100,300,900,400italic,500&subset=latin,cyrillic-ext' rel='stylesheet' type='text/css'>}*
+    *{<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700">}*
+    *{<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Serif">}*
+    *{<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Boogaloo">}*
+    *{<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Economica:700,400italic">}*
     <link href="@{'public/css/bootstrap.css'}" rel="stylesheet" type="text/css">
     <link href="@{'public/css/bootstrap-responsive.min.css'}" rel="stylesheet" type="text/css">
     <link href="@{'public/css/style.css'}" rel="stylesheet" type="text/css">
     <link href="@{'public/css/my-style.css'}" rel="stylesheet" type="text/css">
-    <link href="@{'public/css/layerslider.css'}" rel="stylesheet" type="text/css">
+    <link href="@{'public/css/flexslider.css'}" rel="stylesheet" type="text/css">
 
     <!--[if lt IE 9 ]>
     <link href="@{'public/css/styleIE.css'}" rel="stylesheet">
@@ -271,6 +271,8 @@
 <script src="@{'/public/js/twitter.js'}"></script>
 <script src="@{'/public/js/jquery.placeholder.min.js'}"></script>
 
+<script src="@{'/public/js/jquery.flexslider.js'}"></script>
+
 <script src="@{'/public/js/jquery-easing-1.3.js'}"></script>
 <script src="@{'/public/js/layerslider.kreaturamedia.jquery.js'}"></script>
 
@@ -280,12 +282,20 @@
 <script src="@{'/public/js/jquery.flot.stack.js'}"></script>
 <script src="@{'/public/js/jquery.flot.resize.min.js'}"></script>
 
+
 <script defer="defer" src="@{'/public/js/modernizr.js'}"></script>
 <script defer="defer" src="@{'/public/js/retina.js'}"></script>
 <script defer="defer" src="@{'/public/js/custom.js'}"></script>
 
 <script src="@{'/public/js/my-script.coffee'}" type="text/javascript" ></script>
 <!-- end: Java Script -->
+
+<script type="text/javascript" charset="utf-8">
+    $(window).load(function() {
+        $('.flexslider').flexslider();
+        $('.flexslider').slideshow = true;
+    });
+</script>
 
 </body>
 </html>

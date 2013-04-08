@@ -14,7 +14,12 @@ public class Article extends GenericModel {
 
     public String name;
     public String title;
+    public String author;
+    public String annotation;
     public String image;
     public String type;
+
+    @ElementCollection
+    public List<String> companies;
 
 }
