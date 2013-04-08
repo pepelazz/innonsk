@@ -19,7 +19,7 @@ public class Article extends GenericModel {
     public String image;
     public String type;
 
-    @ElementCollection
-    public List<String> companies;
+//    @ElementCollection
+//    public List<String> companies;
 
 }
