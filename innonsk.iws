@@ -2,24 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" name="Default" comment="add slider">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/articles/innovationProject.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.flexslider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/convergenceNewProducts.html" afterPath="$PROJECT_DIR$/app/views/articles/convergenceNewProducts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/authors/Markova.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/authors/Prihodchenko.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons-white.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons-white.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons_halflings-white.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons_halflings-white.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/glyphicons_halflings.svg" afterPath="$PROJECT_DIR$/public/img/glyphicons_halflings.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/initial-data.yml" afterPath="$PROJECT_DIR$/conf/initial-data.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/innonsk.iws" afterPath="$PROJECT_DIR$/innonsk.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/articles/innovationProject.html" afterPath="$PROJECT_DIR$/app/views/articles/innovationProject.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/modernizr.js" afterPath="$PROJECT_DIR$/public/js/modernizr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/my-style.css" afterPath="$PROJECT_DIR$/public/css/my-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/less/my-style.less" afterPath="$PROJECT_DIR$/public/less/my-style.less" />
     </list>
     <ignored path="innonsk.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365423409779" ignored="false" />
+    <file path="/Dummy.txt" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365424069484" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/controllers/Application.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
     <file path="/fragment.java" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364661276950" ignored="false" />
     <file path="$PROJECT_DIR$/../ruscat/app/views/Application/index.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364494291127" ignored="false" />
@@ -56,7 +50,7 @@
     <file path="/style.css" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364875813958" ignored="false" />
     <file path="/.gitignore" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364563396706" ignored="false" />
     <file path="/my-style.css" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365264331774" ignored="false" />
-    <file path="/about.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364569101784" ignored="false" />
+    <file path="/about.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365423598174" ignored="false" />
     <file path="/ZSBarticle.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364658560337" ignored="false" />
     <file path="/dummy.xml" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365422141918" ignored="false" />
     <file path="$USER_HOME$/Documents/сайт/проекты/noateq/elegance/index.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1364619439766" ignored="false" />
@@ -100,6 +94,7 @@
     <file path="/perceptionBarriers.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365272357198" ignored="false" />
     <file path="/Prihodchenko.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365407192809" ignored="false" />
     <file path="/innovationProject.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365423125573" ignored="false" />
+    <file path="$PROJECT_DIR$/../ruscat/app/views/Application/about.html" changelist="21f6f793-38dd-4004-a9ed-7a98cf45a2b9" time="1365423598174" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,10 +204,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="convergenceNewProducts.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="convergenceNewProducts.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/articles/convergenceNewProducts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="53" selection-start="3038" selection-end="3038" vertical-scroll-proportion="0.70434785">
+            <state line="40" column="32" selection-start="2734" selection-end="2734" vertical-scroll-proportion="-15.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="44" selection-start="349" selection-end="349" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -375,6 +379,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -419,7 +441,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="authors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -488,6 +550,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="companies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="innonsk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="authors" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -776,13 +860,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/Application/company.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/companies/STBCompany.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="20" selection-start="472" selection-end="577" vertical-scroll-proportion="0.31304348">
@@ -793,13 +870,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/companies/ARSTermCompany.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="20" selection-start="461" selection-end="625" vertical-scroll-proportion="0.31304348">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="45" selection-start="860" selection-end="860" vertical-scroll-proportion="-18.75">
           <folding />
         </state>
       </provider>
@@ -835,13 +905,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="295" column="42" selection-start="10030" selection-end="10030" vertical-scroll-proportion="0.71304345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/articles/typeOfProjects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -887,9 +950,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/articles/typeOfProjects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/articles/convergenceNewProducts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="53" selection-start="3038" selection-end="3038" vertical-scroll-proportion="0.70434785">
+        <state line="40" column="32" selection-start="2734" selection-end="2734" vertical-scroll-proportion="-15.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/authors/Markova.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Application/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="44" selection-start="349" selection-end="349" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
