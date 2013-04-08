@@ -41,21 +41,21 @@ Article(a1):
     title:        Spin-off  компании
     image:        spinoff.jpg
     type:         article
-    companies:    [ARSTerm]
+#    companies:    [ARSTerm]
 
 Article(a2):
     name:         newFunctionality
     title:        Новая функциональность  как источник инноваций
     image:        newFunctionality.jpg
     type:         article
-    companies:    [ZSB]
+#    companies:    [ZSB]
 
 Article(a3):
     name:         AbelScheme
     title:        Поиск новых сфер применения продукта и технологий. Схема Д. Абеля.
     image:        AbelScheme.png
     type:         article
-    companies:    [GSS]
+#    companies:    [GSS]
 
 Article(a4):
     name:         convergenceNewProducts
@@ -78,7 +78,7 @@ Article(a6):
     title:        Специализированные поставщики
     image:        specialSuppliers.png
     type:         article
-    companies:    [ARSTerm, NIT, Signatek]
+#    companies:    [ARSTerm, NIT, Signatek]
 
 Article(a7):
     name:         perceptionBarriers
@@ -92,4 +92,4 @@ Article(a8):
     title:        Инновационный проект как отдельный бизнес
     image:        innovationProject.jpg
     type:         article
-    companies:    [ARSTerm, NIT, GSS]
+#    companies:    [ARSTerm, NIT, GSS]
