@@ -8,10 +8,10 @@ import play.test.Fixtures;
 public class FillDemoDb extends Job<FillDemoDb> {
     @Override
     public void doJob() throws Exception {
-//        if (Article.count() == 0) {
+        if (Article.count() == 0) {
             Fixtures.deleteAllModels(); // required for restarts in 'play test' mode
             Fixtures.loadModels("initial-data.yml");
-//        }
+        }
     }
 }
 
